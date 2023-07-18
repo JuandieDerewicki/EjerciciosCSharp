@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\bin\Debug\net6.0\ProbandoLinq.exe
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\bin\Debug\net6.0\ProbandoLinq.deps.json
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\bin\Debug\net6.0\ProbandoLinq.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\bin\Debug\net6.0\ProbandoLinq.dll
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\bin\Debug\net6.0\ProbandoLinq.pdb
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.dll
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\refint\ProbandoLinq.dll
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.pdb
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ProbandoLinq.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\ProbandoLinq\obj\Debug\net6.0\ref\ProbandoLinq.dll
