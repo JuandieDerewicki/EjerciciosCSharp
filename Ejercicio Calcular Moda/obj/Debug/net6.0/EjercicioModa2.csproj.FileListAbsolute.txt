@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\bin\Debug\net6.0\EjercicioModa2.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\bin\Debug\net6.0\EjercicioModa2.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\bin\Debug\net6.0\EjercicioModa2.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\bin\Debug\net6.0\EjercicioModa2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\bin\Debug\net6.0\EjercicioModa2.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\refint\EjercicioModa2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\EjercicioModa2.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioModa2\obj\Debug\net6.0\ref\EjercicioModa2.dll
