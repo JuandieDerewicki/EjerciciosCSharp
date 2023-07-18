@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\bin\Debug\net6.0\EmpresaSueldos.exe
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\bin\Debug\net6.0\EmpresaSueldos.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\bin\Debug\net6.0\EmpresaSueldos.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\bin\Debug\net6.0\EmpresaSueldos.dll
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\bin\Debug\net6.0\EmpresaSueldos.pdb
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.dll
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\refint\EmpresaSueldos.dll
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.pdb
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\EmpresaSueldos.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EmpresaSueldos\obj\Debug\net6.0\ref\EmpresaSueldos.dll
