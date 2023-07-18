@@ -1,0 +1,119 @@
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.exe
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.deps.json
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Form1.resources
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Properties.Resources.resources
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.GenerateResource.cache
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\refint\TrabajoFinalPruebas.dll
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\TrabajoFinalPruebas\obj\Debug\net6.0-windows\ref\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.exe
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.deps.json
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.runtimeconfig.json
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Form1.resources
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\refint\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\obj\Debug\net6.0-windows\ref\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado1.png
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado2.png
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado3.png
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado4.png
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado5.png
+C:\Users\Usuario\Desktop\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado6.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.exe
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado1.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado2.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado3.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado4.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado5.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado6.png
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.deps.json
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.runtimeconfig.json
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Form1.resources
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\refint\TrabajoFinalPruebas.dll
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TP_final\TrabajoFinalPruebas\obj\Debug\net6.0-windows\ref\TrabajoFinalPruebas.dll
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.exe
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado1.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado2.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado3.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado4.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado5.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\ImagenesDados\Dado6.png
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.deps.json
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.runtimeconfig.json
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\_repo\TrabajoFinalPruebas\bin\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.AssemblyReference.cache
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Properties.Resources.resources
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.GenerateResource.cache
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfoInputs.cache
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfo.cs
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.CoreCompileInputs.cache
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\refint\TrabajoFinalPruebas.dll
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.genruntimeconfig.cache
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\ref\TrabajoFinalPruebas.dll
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.FormLudo.resources
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.FormSeleccionColor.resources
+C:\_repo\TrabajoFinalPruebas\obj\Debug\net6.0-windows\TrabajoFinalPruebas.MenuPrincipal.resources
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\TrabajoFinalPruebas.exe
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado1.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado2.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado3.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado4.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado5.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\ImagenesDados\Dado6.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\Resources\TableroLudo3.png
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\TrabajoFinalPruebas.deps.json
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\TrabajoFinalPruebas.runtimeconfig.json
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\bin\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.AssemblyReference.cache
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.FormLudo.resources
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.FormSeleccionColor.resources
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.MenuPrincipal.resources
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.Properties.Resources.resources
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.GenerateResource.cache
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfoInputs.cache
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.AssemblyInfo.cs
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.dll
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\refint\TrabajoFinalPruebas.dll
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.pdb
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\TrabajoFinalPruebas.genruntimeconfig.cache
+C:\Users\bocaj\Downloads\TrabajoFinalProgramacionPruebas\TrabajoFinalPruebasProgramacion\obj\Debug\net6.0-windows\ref\TrabajoFinalPruebas.dll
