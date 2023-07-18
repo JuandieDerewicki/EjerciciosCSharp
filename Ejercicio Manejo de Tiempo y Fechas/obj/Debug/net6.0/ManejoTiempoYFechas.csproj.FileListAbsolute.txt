@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\bin\Debug\net6.0\ManejoTiempoYFechas.exe
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\bin\Debug\net6.0\ManejoTiempoYFechas.deps.json
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\bin\Debug\net6.0\ManejoTiempoYFechas.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\bin\Debug\net6.0\ManejoTiempoYFechas.dll
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\bin\Debug\net6.0\ManejoTiempoYFechas.pdb
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.dll
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\refint\ManejoTiempoYFechas.dll
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.pdb
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ManejoTiempoYFechas.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\ManejoTiempoYFechas\obj\Debug\net6.0\ref\ManejoTiempoYFechas.dll
