@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\bin\Debug\net6.0\Asincronismo.exe
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\bin\Debug\net6.0\Asincronismo.deps.json
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\bin\Debug\net6.0\Asincronismo.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\bin\Debug\net6.0\Asincronismo.dll
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\bin\Debug\net6.0\Asincronismo.pdb
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.dll
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\refint\Asincronismo.dll
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.pdb
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\Asincronismo.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\Asincronismo\obj\Debug\net6.0\ref\Asincronismo.dll
