@@ -1,0 +1,17 @@
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\bin\Debug\net6.0-windows\JuegoMemoria.exe
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\bin\Debug\net6.0-windows\JuegoMemoria.deps.json
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\bin\Debug\net6.0-windows\JuegoMemoria.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\bin\Debug\net6.0-windows\JuegoMemoria.dll
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\bin\Debug\net6.0-windows\JuegoMemoria.pdb
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.Form1.resources
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.csproj.GenerateResource.cache
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.dll
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\refint\JuegoMemoria.dll
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.pdb
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\JuegoMemoria.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\JuegoMemoria\obj\Debug\net6.0-windows\ref\JuegoMemoria.dll
