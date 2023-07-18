@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\bin\Debug\net6.0\EjercicioDesviacionyMedia.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\bin\Debug\net6.0\EjercicioDesviacionyMedia.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\bin\Debug\net6.0\EjercicioDesviacionyMedia.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\bin\Debug\net6.0\EjercicioDesviacionyMedia.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\bin\Debug\net6.0\EjercicioDesviacionyMedia.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\refint\EjercicioDesviacionyMedia.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\EjercicioDesviacionyMedia.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDesviacionyMedia\obj\Debug\net6.0\ref\EjercicioDesviacionyMedia.dll
