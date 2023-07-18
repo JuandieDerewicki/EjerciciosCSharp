@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\bin\Debug\net6.0\EjercicioDataTablesDataSets.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\bin\Debug\net6.0\EjercicioDataTablesDataSets.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\bin\Debug\net6.0\EjercicioDataTablesDataSets.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\bin\Debug\net6.0\EjercicioDataTablesDataSets.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\bin\Debug\net6.0\EjercicioDataTablesDataSets.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\refint\EjercicioDataTablesDataSets.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\EjercicioDataTablesDataSets.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioDataTablesDataSets\obj\Debug\net6.0\ref\EjercicioDataTablesDataSets.dll
