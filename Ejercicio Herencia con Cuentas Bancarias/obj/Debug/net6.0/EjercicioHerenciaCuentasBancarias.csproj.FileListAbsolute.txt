@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\bin\Debug\net6.0\EjercicioHerenciaCuentasBancarias.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\bin\Debug\net6.0\EjercicioHerenciaCuentasBancarias.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\bin\Debug\net6.0\EjercicioHerenciaCuentasBancarias.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\bin\Debug\net6.0\EjercicioHerenciaCuentasBancarias.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\bin\Debug\net6.0\EjercicioHerenciaCuentasBancarias.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\refint\EjercicioHerenciaCuentasBancarias.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\EjercicioHerenciaCuentasBancarias.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioHerenciaCuentasBancarias\obj\Debug\net6.0\ref\EjercicioHerenciaCuentasBancarias.dll
