@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\bin\Debug\net6.0\EjercicioApuestasCompleto.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\bin\Debug\net6.0\EjercicioApuestasCompleto.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\bin\Debug\net6.0\EjercicioApuestasCompleto.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\bin\Debug\net6.0\EjercicioApuestasCompleto.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\bin\Debug\net6.0\EjercicioApuestasCompleto.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\refint\EjercicioApuestasCompleto.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\EjercicioApuestasCompleto.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioApuestasCompleto\obj\Debug\net6.0\ref\EjercicioApuestasCompleto.dll
