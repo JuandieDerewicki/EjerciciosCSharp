@@ -1,0 +1,17 @@
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\bin\Debug\net6.0-windows\AdivinadorAnimalesIA.exe
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\bin\Debug\net6.0-windows\AdivinadorAnimalesIA.deps.json
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\bin\Debug\net6.0-windows\AdivinadorAnimalesIA.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\bin\Debug\net6.0-windows\AdivinadorAnimalesIA.dll
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\bin\Debug\net6.0-windows\AdivinadorAnimalesIA.pdb
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.Form1.resources
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.csproj.GenerateResource.cache
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.dll
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\refint\AdivinadorAnimalesIA.dll
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.pdb
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\AdivinadorAnimalesIA.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\AdivinadorAnimalesIA\obj\Debug\net6.0-windows\ref\AdivinadorAnimalesIA.dll

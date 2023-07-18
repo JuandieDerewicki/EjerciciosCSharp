@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinadorAnimalesIA", "AdivinadorAnimalesIA.csproj", "{CC859612-11A6-41D2-B9A2-9B6FFB07172D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC859612-11A6-41D2-B9A2-9B6FFB07172D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC859612-11A6-41D2-B9A2-9B6FFB07172D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC859612-11A6-41D2-B9A2-9B6FFB07172D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC859612-11A6-41D2-B9A2-9B6FFB07172D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1C26B3-5A24-4067-AD0F-F86CB356E953}
+	EndGlobalSection
+EndGlobal
