@@ -1,0 +1,17 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.Form1.resources
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.csproj.GenerateResource.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\bin\Debug\net6.0-windows\EjercicioCalculadora2.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\bin\Debug\net6.0-windows\EjercicioCalculadora2.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\bin\Debug\net6.0-windows\EjercicioCalculadora2.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\bin\Debug\net6.0-windows\EjercicioCalculadora2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\bin\Debug\net6.0-windows\EjercicioCalculadora2.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\refint\EjercicioCalculadora2.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\EjercicioCalculadora2.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioCalculadora2\obj\Debug\net6.0-windows\ref\EjercicioCalculadora2.dll
