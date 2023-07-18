@@ -1,0 +1,15 @@
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\bin\Debug\net6.0\EjercicioBibliotecaInterfaces.exe
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\bin\Debug\net6.0\EjercicioBibliotecaInterfaces.deps.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\bin\Debug\net6.0\EjercicioBibliotecaInterfaces.runtimeconfig.json
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\bin\Debug\net6.0\EjercicioBibliotecaInterfaces.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\bin\Debug\net6.0\EjercicioBibliotecaInterfaces.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.AssemblyInfoInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.AssemblyInfo.cs
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\refint\EjercicioBibliotecaInterfaces.dll
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.pdb
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\EjercicioBibliotecaInterfaces.genruntimeconfig.cache
+C:\Users\bocaj\source\repos\Programacion III\EjercicioBibliotecaInterfaces\obj\Debug\net6.0\ref\EjercicioBibliotecaInterfaces.dll
